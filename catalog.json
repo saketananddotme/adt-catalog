@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sources": {
+    "obra": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "label": "Obra — Rapid Prototyping & Superpowers",
+      "ref": "main"
+    },
+    "addy": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "label": "Addy Osmani — Codebase Safety",
+      "ref": "main"
+    },
+    "matt": {
+      "repo": "https://github.com/mattpocock/skills.git",
+      "label": "Matt Pocock — Daily Shortcuts",
+      "ref": "main"
+    },
+    "karpathy": {
+      "repo": "https://github.com/jy-tan/andrej-karpathy-skills.git",
+      "label": "Karpathy Guidelines",
+      "ref": "main"
+    }
+  }
+}
